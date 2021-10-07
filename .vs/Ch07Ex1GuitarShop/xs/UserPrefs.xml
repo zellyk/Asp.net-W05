@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{8A597B72-245F-48D7-9E4D-437F6F9FA699}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="GuitarShop/Views/Product/List.cshtml">
     <Files>
-      <File FileName="GuitarShop/Controllers/ProductController.cs" Line="23" Column="77" />
-      <File FileName="GuitarShop/Views/Product/List.cshtml" Line="1" Column="1" />
-      <File FileName="GuitarShop/Models/Product.cs" Line="26" Column="101" />
+      <File FileName="GuitarShop/Controllers/ProductController.cs" Line="54" Column="13" />
+      <File FileName="GuitarShop/Views/Product/List.cshtml" Line="38" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -27,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.GuitarShop PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.GuitarShop PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
